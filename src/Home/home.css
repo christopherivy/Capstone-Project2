@@ -1,0 +1,8 @@
+.btn {
+    display: block;
+    width: 15rem;
+    margin: 1rem auto;
+    display: grid;
+    text-align: center;
+    justify-content: center;
+}

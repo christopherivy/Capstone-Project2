@@ -1,0 +1,9 @@
+.niceQuote {
+    margin: auto;
+    margin-top: 4rem;
+    padding: 2rem;
+    font-size: 1rem;
+    max-width: 20rem;
+    justify-content: center;
+    text-align: center;
+}
